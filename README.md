@@ -81,16 +81,15 @@ An important aspect of this experiment is that the test set includes images with
 
 The repository contains three Jupyter notebooks covering the main stages of the project, along with a folder containing test images for inference.
 
+```text
 pediatric-wrist-fracture-classification/
-│
 ├── 01-data-preparation-for-yolo.ipynb
 ├── 02-fracture-detection-and-classification.ipynb
 ├── 03_yolo_inference.ipynb
-│
 ├── test_images/
-│
 ├── README.md
 └── .gitignore
+```
 
 01_data_preparation_for_yolo.ipynb: Dataset exploration, preprocessing and preparation of YOLO annotations.
 
