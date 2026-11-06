@@ -83,15 +83,13 @@ The repository contains three Jupyter notebooks covering the main stages of the 
 
 pediatric-wrist-fracture-classification/
 │
-├── 01_data_preparation_for_yolo.ipynb
-├── 02_fracture_detection_and_classification.ipynb
+├── 01-data-preparation-for-yolo.ipynb
+├── 02-fracture-detection-and-classification.ipynb
 ├── 03_yolo_inference.ipynb
 │
 ├── test_images/
-│   └── ...
 │
 ├── README.md
-├── requirements.txt
 └── .gitignore
 
 01_data_preparation_for_yolo.ipynb: Dataset exploration, preprocessing and preparation of YOLO annotations.
